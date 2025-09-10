@@ -1,4 +1,3 @@
 <Response>
   <Say voice="woman">Hello from Cosmic Crate!</Say>
-  <Play>http://demo.twilio.com/docs/classic.mp3</Play>
 </Response>
